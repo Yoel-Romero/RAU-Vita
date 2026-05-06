@@ -1,1 +1,3 @@
 # RAU-Vita
+
+This is code from someone with 0 coding experice. I really would love RAU ported to the vita though...
